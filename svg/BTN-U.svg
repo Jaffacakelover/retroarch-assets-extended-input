@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" id="svg4152" xmlns:svg="http://www.w3.org/2000/svg" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 64 64" style="enable-background:new 0 0 64 64;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;stroke:#FFFFFF;stroke-width:2;stroke-miterlimit:5;}
+	.st1{fill:#FFFFFF;}
+</style>
+<g>
+	<path class="st0" d="M46,25c3.87,0,7,3.14,7,7s-3.13,7-7,7c-3.87,0-7-3.13-7-7S42.13,25,46,25z"/>
+	<path class="st1" d="M24,18c0-4.42,3.59-8,8-8s8,3.58,8,8c0,4.42-3.58,8-8,8S24,22.42,24,18z"/>
+	<path class="st0" d="M32,39c3.87,0,7,3.14,7,7c0,3.87-3.13,7-7,7s-7-3.13-7-7C25,42.14,28.13,39,32,39z"/>
+	<path class="st0" d="M18,25c3.87,0,7,3.14,7,7c0,3.87-3.13,7-7,7s-7-3.13-7-7C11,28.14,14.13,25,18,25z"/>
+</g>
+</svg>

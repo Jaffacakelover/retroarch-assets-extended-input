@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 64 64" style="enable-background:new 0 0 64 64;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#FFFFFF;}
+	.st1{fill:none;stroke:#FFFFFF;stroke-width:2;stroke-miterlimit:5;}
+</style>
+<path class="st0" d="M27.01,26.01v12H15.71c-0.95,0-1.71-0.77-1.71-1.71v-8.58c0-0.95,0.77-1.71,1.71-1.71C15.71,26.01,27.01,26.01,27.01,26.01z"/>
+<path class="st1" d="M14.01,27.51c0-0.83,0.67-1.5,1.5-1.5h10.5v-10.5c0-0.83,0.67-1.5,1.5-1.5h9c0.83,0,1.5,0.67,1.5,1.5v10.5h10.5c0.83,0,1.5,0.67,1.5,1.5v8.99c0,0.83-0.67,1.5-1.5,1.5h-10.5v10.5c0,0.83-0.67,1.5-1.5,1.5h-9c-0.83,0-1.5-0.67-1.5-1.5V38h-10.5c-0.83,0-1.5-0.67-1.5-1.5V27.51z"/>
+</svg>

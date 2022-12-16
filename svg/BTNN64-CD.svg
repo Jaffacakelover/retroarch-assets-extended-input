@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1"
+	 id="svg4152" xmlns:svg="http://www.w3.org/2000/svg" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 64 64"
+	 style="enable-background:new 0 0 64 64;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;stroke:#FFFFFF;stroke-width:2;stroke-miterlimit:5;}
+	.st1{fill:#FFFFFF;}
+</style>
+<g>
+	<g>
+		<path class="st0" d="M27.14,53.05c3.26,0,5.89-2.64,5.89-5.9c0-3.25-2.64-5.89-5.89-5.89c-3.26,0-5.89,2.64-5.89,5.89C21.25,50.41,23.89,53.05,27.14,53.05z"/>
+		<path class="st0" d="M15.9,41.58c3.26,0,5.89-2.64,5.89-5.9c0-3.25-2.64-5.89-5.89-5.89c-3.26,0-5.89,2.64-5.89,5.89C10.01,38.94,12.65,41.58,15.9,41.58z"/>
+	</g>
+	<g>
+		<path class="st0" d="M49.14,30.35c2.67,0,4.85-2.18,4.85-4.85s-2.18-4.85-4.85-4.85s-4.85,2.18-4.85,4.85S46.46,30.35,49.14,30.35z"/>
+		<path class="st0" d="M39.44,20.65c2.67,0,4.85-2.18,4.85-4.85s-2.17-4.85-4.85-4.85s-4.85,2.18-4.85,4.85S36.76,20.65,39.44,20.65z"/>
+		<path class="st1" d="M39.44,40.93c-3.16,0-5.73-2.56-5.73-5.73s2.56-5.72,5.73-5.72c3.16,0,5.72,2.56,5.72,5.72C45.16,38.36,42.6,40.93,39.44,40.93z"/>
+		<path class="st0" d="M24.89,25.5c0,2.69,2.17,4.85,4.85,4.85s4.85-2.16,4.85-4.85c0-2.69-2.16-4.85-4.85-4.85S24.89,22.81,24.89,25.5z"/>
+	</g>
+</g>
+</svg>
