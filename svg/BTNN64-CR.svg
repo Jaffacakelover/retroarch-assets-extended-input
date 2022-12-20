@@ -1,19 +1,12 @@
-<?xml version="1.0" encoding="utf-8"?>
-<svg version="1.1" id="svg4152" xmlns:svg="http://www.w3.org/2000/svg" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 64 64" style="enable-background:new 0 0 64 64;" xml:space="preserve">
-<style type="text/css">
-	.st0{fill:#FFFFFF;}
-	.st1{fill:none;stroke:#FFFFFF;stroke-width:2;stroke-miterlimit:5;}
+<svg viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
+<style>
+	.st0{fill:none;stroke:#fff;stroke-width:2}
+	.st1{fill:#fff;stroke:#fff;stroke-width:2}
 </style>
-<g>
-	<g>
-		<path class="st1" d="M27.14,53.05c3.26,0,5.89-2.64,5.89-5.9c0-3.25-2.64-5.89-5.89-5.89c-3.26,0-5.89,2.64-5.89,5.89C21.25,50.41,23.89,53.05,27.14,53.05z"/>
-		<path class="st1" d="M15.9,41.58c3.26,0,5.89-2.64,5.89-5.9c0-3.25-2.64-5.89-5.89-5.89c-3.26,0-5.89,2.64-5.89,5.89C10.01,38.94,12.65,41.58,15.9,41.58z"/>
-	</g>
-	<g>
-		<path class="st0" d="M49.14,31.23c-3.16,0-5.72-2.56-5.72-5.73s2.56-5.72,5.72-5.72c3.15,0,5.73,2.56,5.73,5.73S52.3,31.23,49.14,31.23z"/>
-		<path class="st1" d="M34.59,35.2c0,2.69,2.17,4.85,4.85,4.85s4.85-2.16,4.85-4.85c0-2.69-2.16-4.85-4.85-4.85C36.75,30.35,34.59,32.51,34.59,35.2z"/>
-		<path class="st1" d="M39.44,20.65c2.67,0,4.85-2.18,4.85-4.85s-2.17-4.85-4.85-4.85s-4.85,2.18-4.85,4.85S36.76,20.65,39.44,20.65z"/>
-		<path class="st1" d="M29.74,30.35c2.67,0,4.85-2.18,4.85-4.85s-2.17-4.85-4.85-4.85s-4.85,2.18-4.85,4.85S27.06,30.35,29.74,30.35z"/>
-	</g>
-</g>
+<circle class="st0" cy="47.2" cx="27.1" r="5.8"/>
+<circle class="st0" cy="35.7" cx="15.9" r="5.8"/>
+<circle class="st0" cy="15.8" cx="39.4" r="4.9"/>
+<circle class="st1" cy="25.5" cx="49.1" r="4.9"/>
+<circle class="st0" cy="35.2" cx="39.4" r="4.9"/>
+<circle class="st0" cy="25.5" cx="29.7" r="4.9"/>
 </svg>

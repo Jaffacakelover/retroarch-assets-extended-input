@@ -1,13 +1,10 @@
-<?xml version="1.0" encoding="utf-8"?>
-<svg version="1.1" id="Layer_2" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 64 64" style="enable-background:new 0 0 64 64;" xml:space="preserve">
-<style type="text/css">
-	.st0{fill:none;stroke:#FFFFFF;stroke-width:2;stroke-miterlimit:5;}
-	.st1{fill:#FFFFFF;}
+<svg viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
+<style>
+	.st0{fill:none;stroke:#fff;stroke-width:2}
+	.st1{fill:#fff;stroke:#fff;stroke-width:2}
 </style>
-<g>
-	<path class="st0" d="M43.6,34.7c0,2.7-2,4.7-4.6,4.7c-2.5,0-4.6-2.2-4.6-4.7v-9.3c0-0.4,0.4-0.8,0.8-0.8h7.6c0.4,0,0.8,0.4,0.8,0.8V34.7z"/>
-	<path class="st0" d="M15.3,34.7c0,2.7-2,4.7-4.6,4.7s-4.6-2.2-4.6-4.7v-9.3c0-0.4,0.4-0.8,0.8-0.8h7.6c0.4,0,0.8,0.4,0.8,0.8C15.3,25.4,15.3,34.7,15.3,34.7z"/>
-	<path class="st1" d="M24.9,40.4c-3.1,0-5.6-2.6-5.6-5.7v-9.3c0-1,0.8-1.8,1.8-1.8h7.6c1,0,1.8,0.8,1.8,1.8v9.3C30.5,38,28.1,40.4,24.9,40.4z"/>
-	<path class="st0" d="M57.9,34.7c0,2.7-2,4.7-4.6,4.7c-2.5,0-4.6-2.2-4.6-4.7v-9.3c0-0.4,0.4-0.8,0.8-0.8h7.6c0.4,0,0.8,0.4,0.8,0.8V34.7z"/>
-</g>
+<path class="st0" d="M15.3 34.7c0 2.7-2 4.7-4.6 4.7a4.7 4.7 0 0 1-4.6-4.7v-9.3c0-.4.4-.8.8-.8h7.6c.4 0 .8.4.8.8v9.3z"/>
+<path class="st1" d="M29.5 34.7c0 2.7-2 4.7-4.6 4.7a4.7 4.7 0 0 1-4.6-4.7v-9.3c0-.4.4-.8.8-.8h7.6c.4 0 .8.4.8.8v9.3z"/>
+<path class="st0" d="M43.6 34.7c0 2.7-2 4.7-4.6 4.7a4.7 4.7 0 0 1-4.6-4.7v-9.3c0-.4.4-.8.8-.8h7.6c.4 0 .8.4.8.8z"/>
+<path class="st0" d="M57.9 34.7c0 2.7-2 4.7-4.6 4.7a4.7 4.7 0 0 1-4.6-4.7v-9.3c0-.4.4-.8.8-.8h7.6c.4 0 .8.4.8.8z"/>
 </svg>

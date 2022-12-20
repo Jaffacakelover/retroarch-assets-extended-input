@@ -1,16 +1,19 @@
-<?xml version="1.0" encoding="utf-8"?>
-<svg version="1.1"xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 64 64" style="enable-background:new 0 0 64 64;" xml:space="preserve">
-<style type="text/css">
-	.st0{fill:none;stroke:#FFFFFF;stroke-miterlimit:5;}
-	.st1{fill:none;stroke:#FFFFFF;stroke-width:2;stroke-miterlimit:5;}
+<svg viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
+<style>
+	.st0{fill:#fff}
+	.st1{fill:none;stroke:#fff;stroke-width:2}
+	.st2{fill:none;stroke:#fff;stroke-width:1}
+	.st3{fill:#fff;stroke:#fff;stroke-width:2}
 </style>
 <g>
-	<path class="st0" d="M38.43,9.45c2.47,1.31,4.52,3.31,5.89,5.75 M19.1,15.1c1.28-2.25,3.15-4.12,5.39-5.41 M24.52,34.84c-2.39-1.36-4.35-3.38-5.64-5.81 M44.43,29.11c-1.37,2.55-3.49,4.64-6.06,5.98"/>
-	<path class="st1" d="M25.45,22.04c0,3.57-2.89,6.45-6.46,6.45c-3.57,0-6.46-2.89-6.46-6.45s2.89-6.46,6.46-6.46C22.55,15.58,25.45,18.47,25.45,22.04z"/>
-	<path class="st1" d="M50.61,22.15c0,3.56-2.89,6.45-6.46,6.45c-3.56,0-6.46-2.89-6.46-6.45c0-3.57,2.89-6.46,6.46-6.46C47.72,15.69,50.61,18.58,50.61,22.15z"/>
-	<circle class="st1" cx="31.46" cy="34.84" r="6.46"/>
-	<path class="st1" d="M37.91,9.46c0,3.57-2.89,6.46-6.46,6.46c-3.57,0-6.46-2.89-6.46-6.46C25,5.89,27.89,3,31.46,3C35.02,3,37.91,5.89,37.91,9.46z"/>
-	<path class="st1" d="M39.33,55.69c0,2.93-2.44,5.31-5.44,5.31c-3.01,0-5.44-2.38-5.44-5.31s2.44-5.31,5.44-5.31C36.89,50.37,39.33,52.75,39.33,55.69z"/>
-	<path class="st1" d="M51.47,45.36c0,2.93-2.44,5.31-5.44,5.31s-5.44-2.38-5.44-5.31c0-2.93,2.44-5.31,5.44-5.31S51.47,42.43,51.47,45.36z"/>
+	<path class="st2" d="M38.4 9.4c2.5 1.4 4.6 3.4 6 5.8M19 15.1c1.3-2.3 3.1-4.1 5.4-5.4m0 25.1A14.5 14.5 0 0 1 19 29m25.5.1a14.5 14.5 0 0 1-6 6"/>
+	<circle class="st3" cx="31.5" cy="9.5" r="6.5"/>
+	<circle class="st1" cx="44.2" cy="22.1" r="6.5"/>
+	<circle class="st1" cx="31.5" cy="34.8" r="6.5"/>
+	<circle class="st1" cx="19" cy="22" r="6.5"/>
+</g>
+<g>
+	<circle class="st1" cx="33.9" cy="55.7" r="5.4"/>
+	<circle class="st1" cx="46" cy="45.4" r="5.4"/>
 </g>
 </svg>

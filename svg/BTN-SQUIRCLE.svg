@@ -1,7 +1,6 @@
-<?xml version="1.0" encoding="utf-8"?>
-<svg version="1.1" id="svg4152" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 64 64" style="enable-background:new 0 0 64 64;" xml:space="preserve">
-<style type="text/css">
-	.st0{fill:#FFFFFF;}
+<svg viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
+<style>
+	.st0{fill:#fff}
 </style>
 <path class="st0" d="M43.6,16H20.4c-2.4,0-4.4,1.9-4.4,4.4v23.3c0,2.4,1.9,4.4,4.4,4.4h23.3c2.4,0,4.4-1.9,4.4-4.4V20.4C48,17.9,46.1,16,43.6,16z M32,42c-5.5,0-10-4.5-10-10s4.5-10,10-10s10,4.5,10,10S37.5,42,32,42z"/>
 </svg>

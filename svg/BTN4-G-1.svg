@@ -1,13 +1,10 @@
-<?xml version="1.0" encoding="utf-8"?>
-<svg version="1.1" id="svg4152" xmlns:svg="http://www.w3.org/2000/svg" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 64 64" style="enable-background:new 0 0 64 64;" xml:space="preserve">
-<style type="text/css">
-	.st0{fill:none;stroke:#FFFFFF;stroke-width:2;stroke-miterlimit:5;}
-	.st1{fill:#FFFFFF;}
+<svg viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
+<style>
+	.st0{fill:none;stroke:#fff;stroke-width:2}
+	.st1{fill:#fff;stroke:#fff;stroke-width:2}
 </style>
-<g>
-	<path class="st0" d="M41.9,48.9c3.9,0,7-3.1,7-7s-3.1-7-7-7s-7,3.1-7,7S38,48.9,41.9,48.9z"/>
-	<path class="st0" d="M41.9,29.1c3.9,0,7-3.1,7-7s-3.1-7-7-7s-7,3.1-7,7S38,29.1,41.9,29.1z"/>
-	<path class="st1" d="M22.1,30.1c-4.4,0-8-3.6-8-8s3.6-8,8-8s8,3.6,8,8S26.5,30.1,22.1,30.1z"/>
-	<path class="st0" d="M22.1,48.9c3.9,0,7-3.1,7-7s-3.1-7-7-7s-7,3.1-7,7S18.2,48.9,22.1,48.9z"/>
-</g>
+<circle class="st1" cx="22.1" cy="22.1" r="6.9"/>
+<circle class="st0" cx="41.9" cy="22.1" r="6.9"/>
+<circle class="st0" cx="22.1" cy="41.9" r="6.9"/>
+<circle class="st0" cx="41.9" cy="41.9" r="6.9"/>
 </svg>

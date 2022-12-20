@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="utf-8"?>
-<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 64 64" style="enable-background:new 0 0 64 64;" xml:space="preserve">
-<style type="text/css">
-	.st0{fill:none;stroke:#FFFFFF;stroke-width:4.2;stroke-miterlimit:5;}
-	.st1{fill:#FFFFFF;}
+<svg viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
+<style>
+	.st0{fill:none;stroke:#fff;stroke-width:4.2}
+	.st1{fill:#fff}
+	.st2{fill:#fff;stroke:#fff;stroke-width:1;stroke-linejoin:round}
 </style>
 <g>
 	<path class="st0" d="M13.2,17C23.6,6.6,40.4,6.6,50.8,17"/>
-	<path class="st1" d="M20.4,18.4l-8.2-8.2L8.4,22.5L20.4,18.4z"/>
+	<path class="st2" d="M20.4,18.4l-8.2-8.2L8.4,22.5L20.4,18.4z"/>
 </g>
 <g>
 	<path class="st1" d="M20.7,25.3c-6.4,6.4-6.3,16.3,0,22.6s16.3,6.3,22.6,0s6.3-16.3,0-22.6S27,19,20.7,25.3z M41.5,46.1c-5.3,5.3-13.8,5.3-19.1,0S17,32.5,22.4,27c5.3-5.3,13.8-5.3,19.1,0S46.8,40.8,41.5,46.1z"/>

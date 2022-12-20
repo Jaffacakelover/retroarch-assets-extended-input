@@ -1,10 +1,10 @@
-<?xml version="1.0" encoding="utf-8"?>
-<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 256 256" style="enable-background:new 0 0 256 256;" xml:space="preserve">
-<style type="text/css">
-	.st0{fill:none;stroke:#FFFFFF;stroke-width:8;stroke-miterlimit:10;}
-	.st1{fill:#FFFFFF;}
+<svg viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
+<style>
+	.st0{fill:#fff}
+	.st1{fill:none;stroke:#fff;stroke-width:2}
 </style>
-<path class="st0" d="M194.6,83h-59.1v90h59.1c23.9,0,43.4-19.6,43.4-43.4v-3.1C238,102.6,218.4,83,194.6,83z"/>
-<polygon class="st1" points="204,133 192,133 192,145.1 179.4,145.1 179.4,133 167.4,133 167.4,120.4 179.4,120.4 179.4,108.4 192,108.4 192,120.4 204,120.4 "/>
-<path class="st1" d="M61.4,81C36.4,81,16,101.4,16,126.4v3.1c0,25.1,20.4,45.4,45.4,45.4h61.1V81H61.4z M88.6,133H52v-12.6h36.7C88.6,120.4,88.6,133,88.6,133z"/>
+<path class="st0" d="M15.7 20.2c-6.2 0-11.4 5.1-11.4 11.4v.8c0 6.2 5.1 11.3 11.4 11.4h15.1V20.2Zm-2 9.9H23v3.1h-9.3z"/>
+<path class="st1" d="M48.3 21.2H34.1v21.6h14.2c5.8 0 10.4-4.7 10.4-10.4v-.8c0-5.7-4.7-10.4-10.4-10.4z"/>
+<rect class="st0" width="3.1" height="9.2" x="44.7" y="27" ry="0"/>
+<rect class="st0" width="9.2" height="3.1" x="41.7" y="30" ry="0"/>
 </svg>

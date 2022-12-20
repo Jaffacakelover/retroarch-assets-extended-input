@@ -1,13 +1,12 @@
-<?xml version="1.0" encoding="utf-8"?>
-<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 64 64" style="enable-background:new 0 0 64 64;" xml:space="preserve">
-<style type="text/css">
-	.st0{fill:#FFFFFF;}
+<svg viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
+<style>
+	.st0{fill:#fff}
 </style>
-<g id="g4160" transform="matrix(1.25,0,0,-1.25,0,64)">
-	<path id="path836" class="st0" d="M12.44,25.33c4.26-9.77,9.35-9.77,13.52,0H12.44z"/>
-	<path id="path820" class="st0" d="M9.6,25.02v1.6h32v-1.6H9.6z"/>
-	<path id="path871" class="st0" d="M32.8,32.01v-6.4H36v6.4H32.8z"/>
-	<path id="path879" class="st0" d="M39.2,25.61v6.4h1.6v-6.4L39.2,25.61z"/>
-	<path id="path881" class="st0" d="M28,25.61v6.4h1.6v-6.4L28,25.61z"/>
+<g transform="matrix(1.25,0,0,-1.25,0,64)" class="st0">
+	<path d="M12.44,25.33c4.26-9.77,9.35-9.77,13.52,0H12.44z"/>
+	<path d="M9.6,25.02v1.6h32v-1.6H9.6z"/>
+	<path d="M32.8,32.01v-6.4H36v6.4H32.8z"/>
+	<path d="M39.2,25.61v6.4h1.6v-6.4L39.2,25.61z"/>
+	<path d="M28,25.61v6.4h1.6v-6.4L28,25.61z"/>
 </g>
 </svg>

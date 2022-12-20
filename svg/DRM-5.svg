@@ -1,0 +1,18 @@
+<svg viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
+<style>
+	.st0{fill:none;stroke:#fff;stroke-width:2}
+	.st1{fill:#fff;stroke:#fff;stroke-width:2}
+</style>
+<g>
+	<circle class="st0" cx="12.1" cy="14.4" r="1.8"/>
+	<path class="st1" d="m10.1 15.8-3.8 2.4a5.8 5.8 0 0 0 11.6 0l-3.8-2.5"/>
+</g>
+<g>
+<circle class="st0" cx="52" cy="14.4" r="1.8"/>
+<path class="st0" d="m50 15.8-3.8 2.4a5.8 5.8 0 0 0 11.6 0L54 15.8"/>
+</g>
+<circle class="st0" cx="12.1" cy="44.6" r="5.8"/>
+<circle class="st0" cx="23.7" cy="32.9" r="5.8"/>
+<circle class="st0" cx="40.3" cy="32.9" r="5.8"/>
+<circle class="st0" cx="52" cy="44.6" r="5.8"/>
+</svg>

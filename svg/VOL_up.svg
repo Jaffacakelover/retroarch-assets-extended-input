@@ -1,10 +1,8 @@
-<?xml version="1.0" encoding="utf-8"?>
-<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 256 256" style="enable-background:new 0 0 256 256;" xml:space="preserve">
-<style type="text/css">
-	.st0{fill:none;stroke:#FFFFFF;stroke-width:8;stroke-miterlimit:10;}
-	.st1{fill:#FFFFFF;}
+<svg viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
+<style>
+	.st0{fill:#fff}
+	.st1{fill:none;stroke:#fff;stroke-width:2}
 </style>
-<path class="st0" d="M61.4,83C37.5,83,18,102.6,18,126.4v3.1c0,23.9,19.5,43.4,43.4,43.4h59.1V83H61.4z"/>
-<rect x="52" y="120.4" class="st1" width="36.7" height="12.6"/>
-<path class="st1" d="M194.6,81h-61.1v94h61.1c25.1,0,45.4-20.4,45.4-45.4v-3.1C240,101.4,219.6,81,194.6,81z M204,133h-12v12h-12.6v-12h-12v-12.6h12v-12H192v12h12V133z"/>
+<path class="st1" d="M15.7 42.8h14.2V21.2H15.7c-5.8 0-10.4 4.7-10.4 10.4v.8c0 5.7 4.7 10.4 10.4 10.4z"/>
+<path class="st0" d="M33.2 20.2v23.5h15.1c6.2 0 11.4-5.1 11.4-11.4v-.8c0-6.3-5.1-11.3-11.4-11.4H33.2ZM44.7 27h3.1v3.1h3.1v3.1h-3.1v3h-3.1v-3h-3v-3.1h3zM13.7 30.1H23v3.1h-9.3z"/>
 </svg>
