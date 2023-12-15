@@ -1,4 +1,4 @@
-Additional input icons, from steering wheels, dance mats and gryo controls to Xbox controllers, Rock Band peripherals and the Stadia button.
+Additional input icons, from steering wheels, dance mats and gyyo controls to Xbox controllers, Rock Band peripherals and the Stadia button.
 Ostensibly for use with Retroarch's Monochrome theme, although they are speculative / hobby work so there's no code to back it up.
 Work in progress.
 
