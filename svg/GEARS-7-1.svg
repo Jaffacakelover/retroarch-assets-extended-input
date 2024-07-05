@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <defs>
+    <style>
+      .b{fill:#fff}
+      .c{fill:none;stroke:#fff;stroke-linecap:round;stroke-linejoin:round;stroke-width:3px}
+    </style>
+  </defs>
+  <circle class="b" cx="10.05" cy="14.5" r="7"/>
+  <g>
+    <line class="c" x1="39.25" y1="14.5" x2="39.25" y2="49.5"/>
+    <line class="c" x1="24.75" y1="14.5" x2="24.75" y2="49.5"/>
+    <polyline class="c" points="54 49.5 54 32 10 32 10 49.5"/>
+    <path class="b" d="M10.05,24.5c-.53,0-1.04-.05-1.55-.13v9.13l3-3v-6.12c-.47.07-.96.12-1.45.12Z"/>
+  </g>
+</svg>

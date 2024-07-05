@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <defs>
+    <style>
+      .b{fill:#fff}
+      .c{fill:none;stroke:#fff;stroke-linecap:round;stroke-linejoin:round;stroke-width:3px}
+    </style>
+  </defs>
+  <circle class="b" cx="53.95" cy="49.5" r="7"/>
+  <g>
+    <line class="c" x1="10" y1="14.5" x2="10" y2="49.5"/>
+    <line class="c" x1="39.25" y1="14.5" x2="39.25" y2="49.5"/>
+    <line class="c" x1="24.75" y1="14.5" x2="24.75" y2="49.5"/>
+    <path class="b" d="M52.5,39.62c.47-.07.96-.12,1.45-.12.53,0,1.04.05,1.55.13v-7.63c0-.83-.67-1.5-1.5-1.5h-14.75v3h13.25v6.12Z"/>
+    <line class="c" x1="10.5" y1="32" x2="39.25" y2="32"/>
+    <line class="c" x1="53.95" y1="14.5" x2="53.95" y2="32"/>
+  </g>
+</svg>

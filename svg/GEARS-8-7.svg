@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <defs>
+    <style>
+      .b{fill:#fff}
+      .c{fill:none;stroke:#fff;stroke-linecap:round;stroke-linejoin:round;stroke-width:3px}
+    </style>
+  </defs>
+  <circle class="b" cx="53.95" cy="14.5" r="7"/>
+  <g>
+    <line class="c" x1="10" y1="14.5" x2="10" y2="49.5"/>
+    <line class="c" x1="39.25" y1="14.5" x2="39.25" y2="49.5"/>
+    <line class="c" x1="24.75" y1="14.5" x2="24.75" y2="49.5"/>
+    <polyline class="c" points="54 49.5 54 32 10.5 32"/>
+    <path class="b" d="M53.95,24.5c-.49,0-.98-.05-1.45-.12v6.12l3,3v-9.13c-.51.08-1.02.13-1.55.13Z"/>
+  </g>
+</svg>
